@@ -37,7 +37,7 @@
 # You can use the -c or -u parameters to specify a configuration file to override
 # this.
 # You can generate a template configuration file using the -g parameter. You will
-# then need to change 'WARN' to 'FAIL', 'INFO' or 'IGNORE' for the rules you want
+# then need to change 'WARN' XXXXtggggo 'FAIL', 'INFO' or 'IGNORE' for the rules you want
 # to be handled differently.
 # You can also add your own messages for the rules by appending them after a tab
 # at the end of each line.
